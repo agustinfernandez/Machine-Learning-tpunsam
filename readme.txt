@@ -1,0 +1,2 @@
+Nuestro target es la calidad del vino ("quality"), una variable categórica. En el data-set bruto que se encuentra en esta carpeta, las categorías van del 3 al 9. Dado que los valores extremos están muy poco representados, decidimos juntar las categorías de calidad 3 y 4 por un lado, y las categorías de calidad 8 y 9 por el otro.
+Queremos realizar la división entre train y test en una proporción 80-20 del total de los datos y estratificada según nuestro target "quality".
